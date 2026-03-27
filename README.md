@@ -70,11 +70,11 @@ graph TD
 
 ## Results
 
-### Terraform Plan Result
-![Terraform Plan Result](./screenshots/terraform-plan.png)
+### AKS Overview Result
+![Terraform Plan Result](./screenshots/aks%20overview.png)
 
-### Terraform Apply Result
-![Terraform Apply Result](./screenshots/terraform-apply.png)
+### AKS Nodes Result
+![Terraform Apply Result](./screenshots/aks-nodes.png)
 
 ---
 
@@ -94,7 +94,7 @@ graph TD
 ---
 
 ## Author
-Senior DevOps Engineer — Portfolio Demo
+ISMAIL WAJDI — Provisioning AKS Demo
 
 ---
 
